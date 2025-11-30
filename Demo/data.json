@@ -1,0 +1,9 @@
+{
+    "id": 101,
+    "product": {
+        "name": "Laptop",
+        "brand": "Dell",
+        "price": 75000
+    },
+    "in_stock": true
+}
